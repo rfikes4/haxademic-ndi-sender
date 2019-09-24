@@ -5,12 +5,13 @@ Creates a NDI instance for Processing to send PGraphics/PImages over a local net
 
 ### Requirements
 
-Uses Devolay https://github.com/WalkerKnapp/devolay
-The `.jar` can be downloaded at https://dl.bintray.com/walkerknapp/devolay/com/walker/devolay/0.0.1/:devolay-0.0.1.jar
+-Uses Devolay https://github.com/WalkerKnapp/devolay
 
-Download and install **NDI SKD** https://ndi.tv/sdk/
+-The `.jar` can be downloaded at https://dl.bintray.com/walkerknapp/devolay/com/walker/devolay/0.0.1/:devolay-0.0.1.jar
 
-Download and install **NDI Tools** https://ndi.tv/tools/
+-Download and install **NDI SKD** https://ndi.tv/sdk/
+
+-Download and install **NDI Tools** https://ndi.tv/tools/
 
 
 Usage
