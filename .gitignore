@@ -1,0 +1,5 @@
+_assets
+bin/
+output/
+*Thumbs.db
+.DS_Store
